@@ -1,12 +1,12 @@
-# PUZZLE GAME
+# PUZZLE GAME using iGraphics
 This is a very small and simple iGraphics game project named puzzle game. There are 3 level (Easy 3x3, Medium 4x4, Hard 5x5). These level can be played with or without easy mode [Easy mode means you can move puzzle corner to corner along with horizontally and vertically]. You can on off sound also. Score is counted for each puzzle by both time and move and stored best one.
 
 ## How to Run
 ### Steps:
 - Download the folder as zip and unzip it in your devce.
-- Set an IDE with necessary settings fr iGraphics
+- Set an IDE with necessary settings for iGraphics environment
 - Open the project folder with the IDE.
-- Run iGraphics.cbpp file
+- Run iGraphics.cbp file
 
 ## Demonstration
 #### ***Tap to Watch***
